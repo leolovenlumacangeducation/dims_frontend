@@ -1,0 +1,6 @@
+{
+  "name": "Purchase Order Management",
+  "description": "Track vendor orders, inspect fulfillment, and download official procurement documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
